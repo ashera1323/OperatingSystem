@@ -1,0 +1,169 @@
+    1  sudo spctl --master-disable
+    2  gcc-v
+    3  gcc - c
+    4  gcc - v
+    5  gcc
+    6  exl.c
+    7  GCN
+    8  gcc - v
+    9  touch ex.c
+   10  ls
+   11  brew cask install joplin
+   12  Homebrew
+   13  %gcc hello.c
+   14  % gcc lab.c
+   15  % gcc lab.c
+   16  curl -`v
+   17  curl -V
+   18  cd
+   19  cd
+   20  curl -V
+   21  curl "https://zen.yandex.ru/editor-api/v2/update-publication-content?publisherId=5fb63f9e47926e576ef06e8a" ^
+   22    -H "Connection: keep-alive" ^
+   23    -H "sec-ch-ua: ^\^"Chromium^\^";v=^\^"86^\^", ^\^"^\^\^\^"Not^\^\^\^\A;Brand^\^";v=^\^"99^\^", ^\^"Google Chrome^\^";v=^\^"86^\^"" ^
+   24    -H "Accept: application/json" ^
+   25    -H "Cache-Control: no-cache" ^
+   26    -H "X-Csrf-Token: e1c084c855d0362e62b918dfe51fe2bae3e1b59c:1606044844313" ^
+   27    -H "sec-ch-ua-mobile: ?0" ^
+   28    -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" ^
+   29    -H "Content-Type: application/json" ^
+   30    -H "Origin: https://zen.yandex.ru" ^
+   31    -H "Sec-Fetch-Site: same-origin" ^
+   32    -H "Sec-Fetch-Mode: cors" ^
+   33    -H "Sec-Fetch-Dest: empty" ^
+   34    -H "Referer: https://zen.yandex.ru/profile/editor/id/5fb63f9e47926e576ef06e8a/5fba38b493538c3039d800a0/edit" ^
+   35    -H "Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7" ^
+   36    -H "Cookie: yandexuid=3417806181600975803; yuidss=3417806181600975803; ymex=1916335803.yrts.1600975803^#1916335803.yrtsi.1600975803; _ym_uid=1601028753373999458; mda=0; is_gdpr=0; my=YwA=; is_gdpr_b=CIecPxCRCSgC; gdpr=0; yandex_gid=121642; engineering=1; zenViewportWidth=2477; zm=m-white_bender_zen-ssr.gen.webp.css-https^%^3As3home-static_8iV93J_cHX9-z1TmND7CZ9dg7ec^%^3Al; bltsr=1; _ym_isad=1; Session_id=3:1606039673.5.0.1606039673374:mZuCvA:2c.1^|1223199096.0.2^|226213.639796.ud39bCbhju5JSAH9b7jXieXNaLU; sessionid2=3:1606039673.5.0.1606039673374:mZuCvA:2c.1^|1223199096.0.2^|226213.598710.VyG8B4fihKabupxj26Ck0N790e8; yp=1621768602.szm.1^%^3A1920x1080^%^3A1858x977^#1606401805.los.1^#1606401805.losc.0^#1635345802.p_sw.1603809801^#1609882264.hks.0^#1921138950.multib.1^#1608458893.ygu.1^#1921354211.sad.1605994211^%^3A1605994211^%^3A1^#1921399673.udn.cDpza3l0bGVzczEy; ys=bnrd.0899040106^#udn.cDpza3l0bGVzczEy; L=ZjNyRF1Ad3BDcE5fX1xYRmQBS3V/dQljNVsSEjYOREBUaw==.1606039673.14427.367464.03334d245869175a427826fda0f72fdc; yandex_login=skytless12; i=HxLLM509gzBfbeJ0OU+OFmWZ2b2S+BVfIXjClGjl5R1TjVlAZWGIKi8x99GI3mcnDTz+SkJBgUY8CrOznFLanE11fmQ=; _ym_d=1606039691; yabs-frequency=/5/0000000000000000/06wmS9K0000eFa3xLB1mbG0002W-WEnKi72L0000A3w0/; yc=1606298891.zen.cacS^%^3A1606043289; _ym_visorc_26812653=b" ^
+   37    --data-binary "^{^\^"id^\^":^\^"5fba38b493538c3039d800a0^\^",^\^"preview^\^":^{^\^"title^\^":^\^"df^\^",^\^"snippet^\^":^\^"^в^в^а^в^а^а^\^\nd^\^",^\^"galleryPreviewImages^\^":^[^]^},^\^"snippetFrozen^\^":false,^\^"adsFlagState^\^":^\^"unavailable^\^",^\^"alcoholTobaccoMentioned^\^":false,^\^"hasNativeAds^\^":false,^\^"commentsFlagState^\^":^\^"on^\^",^\^"delayedPublicationFlagState^\^":^\^"on^\^",^\^"visibleComments^\^":^\^"visible^\^",^\^"articleContent^\^":^{^\^"contentState^\^":^\^"^{^\^\^\^"blocks^\^\^\^":^[^{^\^\^\^"key^\^\^\^":^\^\^\^"cb928^\^\^\^",^\^\^\^"text^\^\^\^":^\^\^\^"^\^\^\^",^\^\^\^"type^\^\^\^":^\^\^\^"atomic:embed^\^\^\^",^\^\^\^"depth^\^\^\^":0,^\^\^\^"inlineStyleRanges^\^\^\^":^[^],^\^\^\^"entityRanges^\^\^\^":^[^],^\^\^\^"data^\^\^\^":^{^\^\^\^"embedData^\^\^\^":^{^\^\^\^"type^\^\^\^":^\^\^\^"yandex-efir^\^\^\^",^\^\^\^"stringParams^\^\^\^":^\^\^\^"vl-dCSNpFRDw?from=partner^&mute=1^#autoplay=1^\^\^\^"^}^}^},^{^\^\^\^"key^\^\^\^":^\^\^\^"1hqtl^\^\^\^",^\^\^\^"text^\^\^\^":^\^\^\^"^\^\^\^",^\^\^\^"type^\^\^\^":^\^\^\^"unstyled^\^\^\^",^\^\^\^"depth^\^\^\^":0,^\^\^\^"inlineStyleRanges^\^\^\^":^[^],^\^\^\^"entityRanges^\^\^\^":^[^],^\^\^\^"data^\^\^\^":^{^}^},^{^\^\^\^"key^\^\^\^":^\^\^\^"d6uj7^\^\^\^",^\^\^\^"text^\^\^\^":^\^\^\^"^в^в^а^в^\^\^\^",^\^\^\^"type^\^\^\^":^\^\^\^"unstyled^\^\^\^",^\^\^\^"depth^\^\^\^":0,^\^\^\^"inlineStyleRanges^\^\^\^":^[^],^\^\^\^"entityRanges^\^\^\^":^[^],^\^\^\^"data^\^\^\^":^{^}^}^],^\^\^\^"entityMap^\^\^\^":^{^}^}^\^"^},^\^"tagsInput^\^":^{^\^"tags^\^":^[^],^\^"detectedTagsShown^\^":true,^\^"embeddedTags^\^":^[^]^}^}" ^
+   38    --compressed
+   39  curl 'https://zen.yandex.ru/editor-api/v2/update-publication-content?publisherId=5fb63f9e47926e576ef06e8a'   -H 'Connection: keep-alive'   -H 'sec-ch-ua: "Chromium";v="86", "\"Not\\A;Brand";v="99", "Google Chrome";v="86"'   -H 'Accept: application/json'   -H 'Cache-Control: no-cache'   -H 'X-Csrf-Token: 2fb4333b9184df05070ef7f28a277665a0bdbcf3:1606053575386'   -H 'sec-ch-ua-mobile: ?0'   -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36'   -H 'Content-Type: application/json'   -H 'Origin: https://zen.yandex.ru'   -H 'Sec-Fetch-Site: same-origin'   -H 'Sec-Fetch-Mode: cors'   -H 'Sec-Fetch-Dest: empty'   -H 'Referer: https://zen.yandex.ru/profile/editor/id/5fb63f9e47926e576ef06e8a/5fba38b493538c3039d800a0/edit'   -H 'Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'   -H 'Cookie: yandexuid=3417806181600975803; yuidss=3417806181600975803; ymex=1916335803.yrts.1600975803#1916335803.yrtsi.1600975803; _ym_uid=1601028753373999458; mda=0; is_gdpr=0; my=YwA=; is_gdpr_b=CIecPxCRCSgC; gdpr=0; yandex_gid=121642; engineering=1; zenViewportWidth=2477; zm=m-white_bender_zen-ssr.gen.webp.css-https%3As3home-static_8iV93J_cHX9-z1TmND7CZ9dg7ec%3Al; bltsr=1; _ym_isad=1; Session_id=3:1606039673.5.0.1606039673374:mZuCvA:2c.1|1223199096.0.2|226213.639796.ud39bCbhju5JSAH9b7jXieXNaLU; sessionid2=3:1606039673.5.0.1606039673374:mZuCvA:2c.1|1223199096.0.2|226213.598710.VyG8B4fihKabupxj26Ck0N790e8; yp=1621768602.szm.1%3A1920x1080%3A1858x977#1606401805.los.1#1606401805.losc.0#1635345802.p_sw.1603809801#1609882264.hks.0#1921138950.multib.1#1608458893.ygu.1#1921354211.sad.1605994211%3A1605994211%3A1#1921399673.udn.cDpza3l0bGVzczEy; ys=bnrd.0899040106#udn.cDpza3l0bGVzczEy; L=ZjNyRF1Ad3BDcE5fX1xYRmQBS3V/dQljNVsSEjYOREBUaw==.1606039673.14427.367464.03334d245869175a427826fda0f72fdc; yandex_login=skytless12; i=HxLLM509gzBfbeJ0OU+OFmWZ2b2S+BVfIXjClGjl5R1TjVlAZWGIKi8x99GI3mcnDTz+SkJBgUY8CrOznFLanE11fmQ=; _ym_d=1606039691; yabs-frequency=/5/0000000000000000/06wmS9K0000eFa3xLB1mbG0002W-WEnKi72L0000A3w0/; yc=1606298891.zen.cacS%3A1606043289; _ym_visorc_26812653=b; _ym_visorc_45081660=w; _ym_visorc_51446871=b'   --data-binary '{"id":"5fba38b493538c3039d800a0","preview":{"title":"df","snippet":"вваваа\nd","galleryPreviewImages":[]},"snippetFrozen":false,"adsFlagState":"unavailable","alcoholTobaccoMentioned":false,"hasNativeAds":false,"commentsFlagState":"on","delayedPublicationFlagState":"on","visibleComments":"visible","articleContent":{"contentState":"{\"blocks\":[{\"key\":\"cb928\",\"text\":\"\",\"type\":\"atomic:embed\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"embedData\":{\"type\":\"yandex-efir\",\"stringParams\":\"vl-dCSNpFRDw?from=partner&mute=1#autoplay=1\"}}},{\"key\":\"1hqtl\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"d6uj7\",\"text\":\"вва\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"},"tagsInput":{"tags":[],"detectedTagsShown":true,"embeddedTags":[]}}'   --compressed
+   40  curl 'https://zen.yandex.ru/editor-api/v2/update-publication-content?publisherId=5fb63f9e47926e576ef06e8a'   -H 'Connection: keep-alive'   -H 'sec-ch-ua: "Chromium";v="86", "\"Not\\A;Brand";v="99", "Google Chrome";v="86"'   -H 'Accept: application/json'   -H 'Cache-Control: no-cache'   -H 'X-Csrf-Token: 5d0b70f3e4ffe710b3866ce00229cbde9762a12f:1606053647215'   -H 'sec-ch-ua-mobile: ?0'   -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36'   -H 'Content-Type: application/json'   -H 'Origin: https://zen.yandex.ru'   -H 'Sec-Fetch-Site: same-origin'   -H 'Sec-Fetch-Mode: cors'   -H 'Sec-Fetch-Dest: empty'   -H 'Referer: https://zen.yandex.ru/profile/editor/id/5fb63f9e47926e576ef06e8a/5fba6fe9ccd7953aaa983997/edit'   -H 'Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'   -H 'Cookie: yandexuid=3417806181600975803; yuidss=3417806181600975803; ymex=1916335803.yrts.1600975803#1916335803.yrtsi.1600975803; _ym_uid=1601028753373999458; mda=0; is_gdpr=0; my=YwA=; is_gdpr_b=CIecPxCRCSgC; gdpr=0; yandex_gid=121642; engineering=1; zenViewportWidth=2477; zm=m-white_bender_zen-ssr.gen.webp.css-https%3As3home-static_8iV93J_cHX9-z1TmND7CZ9dg7ec%3Al; bltsr=1; _ym_isad=1; Session_id=3:1606039673.5.0.1606039673374:mZuCvA:2c.1|1223199096.0.2|226213.639796.ud39bCbhju5JSAH9b7jXieXNaLU; sessionid2=3:1606039673.5.0.1606039673374:mZuCvA:2c.1|1223199096.0.2|226213.598710.VyG8B4fihKabupxj26Ck0N790e8; yp=1621768602.szm.1%3A1920x1080%3A1858x977#1606401805.los.1#1606401805.losc.0#1635345802.p_sw.1603809801#1609882264.hks.0#1921138950.multib.1#1608458893.ygu.1#1921354211.sad.1605994211%3A1605994211%3A1#1921399673.udn.cDpza3l0bGVzczEy; ys=bnrd.0899040106#udn.cDpza3l0bGVzczEy; L=ZjNyRF1Ad3BDcE5fX1xYRmQBS3V/dQljNVsSEjYOREBUaw==.1606039673.14427.367464.03334d245869175a427826fda0f72fdc; yandex_login=skytless12; i=HxLLM509gzBfbeJ0OU+OFmWZ2b2S+BVfIXjClGjl5R1TjVlAZWGIKi8x99GI3mcnDTz+SkJBgUY8CrOznFLanE11fmQ=; _ym_d=1606039691; yabs-frequency=/5/0000000000000000/06wmS9K0000eFa3xLB1mbG0002W-WEnKi72L0000A3w0/; yc=1606298891.zen.cacS%3A1606043289; _ym_visorc_26812653=b; _ym_visorc_45081660=w; _ym_visorc_51446871=b'   --data-binary '{"id":"5fba6fe9ccd7953aaa983997","preview":{"title":"","snippet":"v","galleryPreviewImages":[]},"snippetFrozen":false,"adsFlagState":"unavailable","commentsFlagState":"on","delayedPublicationFlagState":"off","visibleComments":"visible","articleContent":{"contentState":"{\"blocks\":[{\"key\":\"3oib6\",\"text\":\"\",\"type\":\"atomic:embed\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"embedData\":{\"type\":\"yandex-efir\",\"stringParams\":\"vl-dCSNpFRDw?from=partner&mute=1#autoplay=1\"}}},{\"key\":\"4gucj\",\"text\":\"v\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"1gv17\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"},"tagsInput":{"tags":[],"detectedTagsShown":false,"embeddedTags":[]}}'   --compressed
+   41  curl 'https://zen.yandex.ru/editor-api/v2/update-publication-content?publisherId=5fb63f9e47926e576ef06e8a'   -H 'Connection: keep-alive'   -H 'sec-ch-ua: "Chromium";v="86", "\"Not\\A;Brand";v="99", "Google Chrome";v="86"'   -H 'Accept: application/json'   -H 'Cache-Control: no-cache'   -H 'X-Csrf-Token: 8f2c8a9316c71c205dd6fa3f2d21a4822bc2e559:1606054350959'   -H 'sec-ch-ua-mobile: ?0'   -H 'User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36'   -H 'Content-Type: application/json'   -H 'Origin: https://zen.yandex.ru'   -H 'Sec-Fetch-Site: same-origin'   -H 'Sec-Fetch-Mode: cors'   -H 'Sec-Fetch-Dest: empty'   -H 'Referer: https://zen.yandex.ru/profile/editor/id/5fb63f9e47926e576ef06e8a/5fba725c572b8625750c1f59/edit'   -H 'Accept-Language: ru-RU,ru;q=0.9,en-US;q=0.8,en;q=0.7'   -H 'Cookie: yandexuid=3417806181600975803; yuidss=3417806181600975803; ymex=1916335803.yrts.1600975803#1916335803.yrtsi.1600975803; _ym_uid=1601028753373999458; mda=0; is_gdpr=0; my=YwA=; is_gdpr_b=CIecPxCRCSgC; gdpr=0; yandex_gid=121642; engineering=1; zenViewportWidth=2477; zm=m-white_bender_zen-ssr.gen.webp.css-https%3As3home-static_8iV93J_cHX9-z1TmND7CZ9dg7ec%3Al; bltsr=1; _ym_isad=1; Session_id=3:1606039673.5.0.1606039673374:mZuCvA:2c.1|1223199096.0.2|226213.639796.ud39bCbhju5JSAH9b7jXieXNaLU; sessionid2=3:1606039673.5.0.1606039673374:mZuCvA:2c.1|1223199096.0.2|226213.598710.VyG8B4fihKabupxj26Ck0N790e8; ys=bnrd.0899040106#udn.cDpza3l0bGVzczEy; L=ZjNyRF1Ad3BDcE5fX1xYRmQBS3V/dQljNVsSEjYOREBUaw==.1606039673.14427.367464.03334d245869175a427826fda0f72fdc; yandex_login=skytless12; i=HxLLM509gzBfbeJ0OU+OFmWZ2b2S+BVfIXjClGjl5R1TjVlAZWGIKi8x99GI3mcnDTz+SkJBgUY8CrOznFLanE11fmQ=; yabs-frequency=/5/0000000000000000/06wmS9K0000eFa3xLB1mbG0002W-WEnKi72L0000A3w0/; _ym_visorc_26812653=b; _ym_d=1606054136; yc=1606313336.zen.cacS%3A1606057734; yp=1621822138.szm.1:1920x1080:1858x920#1606401805.los.1#1606401805.losc.0#1635345802.p_sw.1603809801#1609882264.hks.0#1921138950.multib.1#1608458893.ygu.1#1921354211.sad.1605994211:1605994211:1#1921399673.udn.cDpza3l0bGVzczEy; _ym_visorc_50377519=b; _ym_visorc_45081660=w; _ym_visorc_51446871=b'   --data-binary '{"id":"5fba725c572b8625750c1f59","preview":{"title":"","snippet":"c","galleryPreviewImages":[]},"snippetFrozen":false,"adsFlagState":"unavailable","commentsFlagState":"on","delayedPublicationFlagState":"off","visibleComments":"visible","articleContent":{"contentState":"{\"blocks\":[{\"key\":\"ecm2e\",\"text\":\"\",\"type\":\"atomic:embed\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{\"embedData\":{\"type\":\"yandex-efir\",\"stringParams\":\"vcze6TvXTLF0?from=partner&mute=1#autoplay=1\"}}},{\"key\":\"f5f98\",\"text\":\"\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}},{\"key\":\"bd5ru\",\"text\":\"c\",\"type\":\"unstyled\",\"depth\":0,\"inlineStyleRanges\":[],\"entityRanges\":[],\"data\":{}}],\"entityMap\":{}}"},"tagsInput":{"tags":[],"detectedTagsShown":false,"embeddedTags":[]}}'   --compressed
+   42  sudo rm -rf /private/var/log/*
+   43  sudo rm -rf /private/var/log/*
+   44  D28362k
+   45  sudo rm -rf /private/var/folders/
+   46  sudo rm -rf /System/Library/Speech/Voices/*
+   47  D28362k
+   48  brew install --cask xquartz
+   49  brew install --cask xquartz
+   50  $brew install --cask xquartz
+   51  $brew tap homebrew/cask-versions
+   52  brew tap homebrew/cask-versions
+   53  /Applications/osu\!.app/Contents/Frameworks/wswine.bundle/bin/osu\!37092475Wine32on64-preloader ; exit;
+   54  open/users/luxfero/desctop/a.jff
+   55  open/user/luxfero/desctop/JFLAP7.1.jar
+   56  /Applications/osu\!.app/Contents/Frameworks/wswine.bundle/bin/osu\!37092475Wine32on64-preloader ; exit;
+   57  gitczxz
+   58  git 
+   59  cd Desktop/
+   60  mkdir DSA
+   61  cd DSA
+   62  git status
+   63  git init
+   64  eecho "# DSA-home-works" >> README.md
+   65  git init
+   66  git add README.md
+   67  git commit -m "first commit"
+   68  git branch -M main
+   69  git remote add origin https://github.com/ashera1323/DSA-home-works.git
+   70  git status
+   71  git log
+   72  git reset HEAD~1 --soft
+   73  git reset --soft HEAD~1
+   74  git reset HEAD~1
+   75  git reset HEAD~1
+   76  git reset HEAD
+   77  git status
+   78  git log
+   79  git push -u origin main
+   80  D28362k
+   81  git status
+   82  git add *
+   83  git status
+   84  git rm --cached Spell\ checker/.idea/
+   85  git rm -r --cached Spell\ checker/.idea/
+   86  vim .gitignore
+   87  vim .gitignore
+   88  git add .
+   89  git status
+   90  vim .gitignore
+   91  git add .
+   92  git status
+   93  git reset --cached -r .
+   94  git rm --cached -r .
+   95  git status
+   96  git add .
+   97  git status
+   98  git commit -m "Added howeworks"
+   99  git push
+  100  git push -u origin main
+  101  git push -u origin main
+  102  ssh-keygen
+  103  eval `ssh-agent -s`
+  104  ssh-add
+  105  cat ~/.id_rsa.pub
+  106  cat ~/.ssh/id_rsa.pub 
+  107  ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDCSmb3PEbEeZXXKDfgtX+NZLv1z0evqzcCucUMnpp/yIggw3XqzyPqtsrKaEWn88/fz04eFWr0rf1rUg51gZEccC5Cx4sM1Gd5qffSAk6xwTwMhSy9d6/g9xD0qqqb1b6jeKfS+E1yWwtTDQo0w5KDWovA3jDQK+h78TnVaJ/urLJdoiX1KQMmzUA/TSZ/1x++gV3+KpTSzS2mxb5+sD+D9bIZZ+uwiLAw09wwKHq5EUMYXoywZZfOIge+VgJhp9uaRg3qFyVNqAlBJ32iBvgAg9tRTaRdPpZKV6qZtxGJ5ukBcHrvQucxqKM6dAWtlVSpTjP78fa3nuJxc8VcRo0+KaoynMedZz41/4lCWZ073kkKukR1Dxa0GfI4r6mkezsfwsLeRpLH8g1ZkPt1z6/o5CWFcrRCi0sDJVrx9pBDfEzV5g5SEyrCt5YBTIvWfnEftzpFGHiXVSIMf/OAY24tpFrpUlOGdF+3rXbnsNEanf7/dIJCz+UC4aRNyYN6vKM= luxfero@MacBook-Pro-Ashera.local
+  108  git remote set-url origin git@github.com:ashera1323/DSA-home-works.git
+  109  git push -u origin main
+  110  git pull
+  111  git status
+  112  git add.
+  113  git add .
+  114  git status
+  115  git commit -m "moved several files"
+  116  git push
+  117  python -V
+  118  python3.8 -V
+  119  python3.6 -V
+  120  brew install python3 && cp /usr/local/bin/python3 /usr/local/bin/python
+  121  python -V
+  122  python -V
+  123  python3 --version
+  124  pip --version
+  125  pip install -U python-telegram-bot
+  126  pip install -U python-telegram-bot
+  127  hetoku login
+  128  heroku login
+  129  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/uninstall.sh)"
+  130  /Volumes/DaisyDisk\ 4.12.1/Open\ Gatekeeper\ friendly ; exit;
+  131  /Applications/osu\!.app/Contents/Frameworks/wswine.bundle/bin/osu\!37092475Wine32on64-preloader ; exit;
+  132  python -V
+  133  pip install -U python-telegram-bot
+  134  pip install python-telegram-bot
+  135  pip show python-telegram-bot
+  136  security find-generic-password -wa InnoMeeting
+  137  ip config
+  138  ipconfig
+  139  ifconfig
+  140  config
+  141  ipconfig getifaddr en0
+  142  ls
+  143  mkdir week01
+  144  ls
+  145  cd week01/
+  146  ls /usr/bin/*gcc* | sort -r | cat > ex1.txt
+  147  ls
+  148  cat ex1.txt 
+  149  pwd
+  150  ls
+  151  ls /usr/bin/
+  152  mkdir sas
+  153  ls
+  154  cd sas
+  155  pwd
+  156  ls
+  157  cd .
+  158  pwd
+  159  .
+  160  . sas
+  161  cd ./
+  162  . /sas
+  163  ..
+  164  cd ..
+  165  ls
+  166  rm sas
+  167  rm -r sas
+  168  ls
+  169  history > ex2.txt
